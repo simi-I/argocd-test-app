@@ -1,3 +1,3 @@
 
-# argocd-test-app
-    Sorry, the Technical documentation is in progress
+# Argocd-test-app
+Sorry, the Technical documentation is in progress
